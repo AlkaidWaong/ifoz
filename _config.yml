@@ -1,7 +1,7 @@
 # Site
 name: "Alkaid"
-title: "Alkaid Waong"
-description: "travel, culture, lifestyle. Eat, Pray, Love!"
+title: "IFOZ"
+description: ""
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -10,15 +10,15 @@ disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: alkaid.waong@outlook.com
+email: alkaid.waong@foxmail.com
 
 # Authors
 authors:
   Alkaid:
-    name: Alkaid Waong
+    name: Alkaid
     display_name: Alkaid
     avatar: 'assets/images/avatar-sal.png'
-    email: alkaid.waong@outlook.com
+    email: alkaid.waong@foxmail.com
     twitter: https://twitter.com/alkaidwaong
     description: "魔都产品经理，偶尔冒泡，经常发呆！喜欢吃意面🍝，争取不做饭桶。"
 
