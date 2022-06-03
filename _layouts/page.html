@@ -2,8 +2,17 @@
 layout: default
 ---
 
-{%-include back_link.html-%}
+<div class="page-single">
+    <div class="entry-header">       
+        <h1 class="posttitle">{{ page.title }}</h1>        
+    </div>
+</div>
 
-<h1>{{ page.title }}</h1>
+<!-- Featured Image -->
+{% include featured-image.html %}
 
-{{ content }}
+<!-- Content -->
+{% include article.html %}
+
+<!-- Comments if not disabled with comments: false -->
+{% include comments.html %}
