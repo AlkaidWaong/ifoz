@@ -5,7 +5,7 @@ author: "Pinz"
 catelog: true
 tags: 
   - iOS 16
-header-img: https://tva1.sinaimg.cn/large/e6c9d24egy1h4za84jc93j20wi0irtac.jpg
+header-img: "img/cover.png"
 ---
 iOS 16新增了不少关于锁屏的更新内容：添加小组件到锁屏，自定锁屏界面以及优化锁屏下通知的展现。
 
