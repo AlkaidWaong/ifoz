@@ -8,7 +8,7 @@ image: https://tva1.sinaimg.cn/large/e6c9d24egy1h4za84jc93j20wi0irtac.jpg
 ---
 iOS 16新增了不少关于锁屏的更新内容：添加小组件到锁屏，自定锁屏界面以及优化锁屏下通知的展现。
 
-![Notifications](../../../../../Desktop/Notifications.png)
+![Notifications](https://tva1.sinaimg.cn/large/e6c9d24egy1h4zam1192bj20u01h90xn.jpg)
 
 通过下面的步骤就可以在iOS 16测试版锁屏中将通知信息隐藏：
 
