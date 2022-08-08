@@ -4,7 +4,7 @@ title:  "iOS 16: 如何在锁屏状态隐藏通知"
 author: Alkaid
 categories: [ HowTo]
 tags: [ iOS 16 ]
-image: assets/images/7.jpg
+image: https://tva1.sinaimg.cn/large/e6c9d24egy1h4za84jc93j20wi0irtac.jpg
 ---
 iOS 16新增了不少关于锁屏的更新内容：添加小组件到锁屏，自定锁屏界面以及优化锁屏下通知的展现。
 
