@@ -6,7 +6,7 @@ date:       2022-08-08 16:30:00
 author:     "Pinz"
 catalog: true
 published: true
-header-img: "img/IMG_731BEF513B3E-1.jpeg"
+header-img: "img/20220808-cover.png"
 tags:
   - iOS 16
   - iPhone
