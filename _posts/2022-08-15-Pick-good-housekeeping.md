@@ -3,7 +3,7 @@ layout: post
 title: "聊一聊如何规避不靠谱的家政服务"
 subtitle: '要有常识，低价＝不靠谱'
 author: "Pinz"
-header-img: "post-bg-miui6.jpg"
+header-img: "img/post-bg-miui6.jpg"
 tags:
   - 生活
 ---
