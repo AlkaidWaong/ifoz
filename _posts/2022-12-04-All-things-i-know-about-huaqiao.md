@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "环沪小镇花桥：花开五洲 桥连四海"
-subtitle: '花桥生活攻略'
+title: "环沪小镇花桥生活攻略"
+subtitle: '一个沪迁青年在这里的生活log'
+date:       2022-12-04 16:30:00
 author: "Pinz"
 header-img: "https://tva1.sinaimg.cn/large/008vxvgGgy1h8qlbyfpuwj31400u011n.jpg"
 tags:
