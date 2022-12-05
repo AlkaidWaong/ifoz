@@ -3,7 +3,7 @@ layout: post
 title: "小镇花桥生活攻略"
 subtitle: '沪迁青年在这里的生活LOG'
 date:       2022-12-04 16:30:00
-author: "Pinz"
+author: "Alkaid"
 header-img: "https://tva1.sinaimg.cn/large/008vxvgGgy1h8qsfp9pwdj31400u0qbs.jpg"
 tags:
   - 生活

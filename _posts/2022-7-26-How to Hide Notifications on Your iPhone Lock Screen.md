@@ -2,7 +2,7 @@
 layout: post
 title:  "iOS 16: 如何在锁屏状态隐藏通知"
 subtitle: '简化iOS16通知的展示'
-author: "Pinz"
+author: "Alkaid"
 catelog: true
 tags: 
   - iOS 16

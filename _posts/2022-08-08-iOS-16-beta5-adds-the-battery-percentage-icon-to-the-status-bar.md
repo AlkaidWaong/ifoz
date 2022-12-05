@@ -3,7 +3,7 @@ layout:     post
 title:      "iOS 16:苹果可真擅长创新"
 subtitle:   "iOS 16 beta5状态栏显示电量了"
 date:       2022-08-08 16:30:00
-author:     "Pinz"
+author:     "Alkaid"
 catalog: true
 published: true
 header-img: "img/20220808-cover.png"

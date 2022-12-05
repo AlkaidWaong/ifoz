@@ -2,7 +2,7 @@
 layout: post
 title: "都2022了，原生APP开发还有必要吗？"
 subtitle: '上海疫情后我们解散了APP团队'
-author: "IFOZ"
+author: "Alkaid"
 header-style: text
 tags:
   - 团队
