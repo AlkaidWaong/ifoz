@@ -75,7 +75,7 @@ ga_domain: ifoz.net
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "You've got to find what you love."
-sidebar-avatar: https://tva1.sinaimg.cn/large/e6c9d24egy1h4zc91b0lqj20u011ijv3.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://tva1.sinaimg.cn/large/008vxvgGgy1h8tw7oaix2j30ua0u0wga.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
