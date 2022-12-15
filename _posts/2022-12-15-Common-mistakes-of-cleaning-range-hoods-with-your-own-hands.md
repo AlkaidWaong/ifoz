@@ -1,4 +1,4 @@
-```
+---
 layout: post
 title: "上门清洗油烟机骗局年底频发是为何？"
 subtitle: '自己动手清洗油烟机常犯的错误'
@@ -7,7 +7,9 @@ author: "Alkaid"
 header-img: "https://tva1.sinaimg.cn/large/008vxvgGgy1h94euz105bj30u00wmn40.jpg"
 tags:
   - 生活
-```
+---
+
+
 
 年底了，为了团圆的一桌美食不少家里人会提前清洗一下油烟机。我为大家整理了一些骗局和错误的做法，避免年底闹心不愉快。
 
