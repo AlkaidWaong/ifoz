@@ -4,7 +4,7 @@ title: "OMS订单系统中的拆单过程"
 subtitle: '合理拆单加快履单时效'
 date:       2022-12-18 12:54:00
 author: "Alkaid"
-header-style: text
+header-img: "/img/post-bg-unix-linux.jpg"
 tags:
   - OMS订单系统
 ---

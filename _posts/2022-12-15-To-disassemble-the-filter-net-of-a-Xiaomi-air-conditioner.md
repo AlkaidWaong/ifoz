@@ -4,7 +4,7 @@ title: "小米空调过滤网怎么拆？"
 subtitle: '小米柜机空调拆滤网的方法'
 date:       2022-12-17 12:54:00
 author: "Alkaid"
-header-img: "/img/post-sample-image.jpg"
+header-img: "/img/post-bg-unix-linux.jpg"
 tags:
   - 生活
 ---
