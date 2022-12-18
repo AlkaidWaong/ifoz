@@ -4,7 +4,7 @@ title: "上门清洗油烟机骗局年底频发是为何？"
 subtitle: '自己动手清洗油烟机常犯的错误'
 date:       2022-12-15 12:54:00
 author: "Alkaid"
-header-img: "https://tva1.sinaimg.cn/large/008vxvgGgy1h94euz105bj30u00wmn40.jpg"
+header-img: "/img/post-bg-unix-linux.jpg"
 tags:
   - 生活
 ---
