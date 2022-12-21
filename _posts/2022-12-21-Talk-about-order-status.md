@@ -4,7 +4,7 @@ title: "OMS:结合生活服务行业谈订单状态、订单合并和订单拦�
 subtitle: ''
 date:       2022-12-21 23:54:00
 author: "Alkaid"
-header-style: text
+header-img: "/img/post-bg-unix-linux.jpg"
 tags:
   - OMS订单系统
 ---
