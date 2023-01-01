@@ -11,7 +11,7 @@ tags:
 
 OMS是业务中台中很重要的部分，承接了来自上游系统的数据，进行处理并向下游的系统传递（如WMS）。中间还要与财务系统这样的相关业务系统进行数据传递。因此，订单是承载了大量的数据且需要有极快的处理效率。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h9bs1zdnymj30v50gptbh.jpg)
+![oms_001](https://p.ipic.vip/3nuoha.png)
 
 上面是我对OMS系统的相关服务和功能做了一些简化的理解。关于订单拆分服务前面已经写了一篇文章[《OMS订单系统中的拆单过程》](https://www.ifoz.net/2022/12/18/How-to-split-orders-in-OMS/)直接点链接即可。
 
@@ -27,7 +27,7 @@ OMS是业务中台中很重要的部分，承接了来自上游系统的数据�
 
 下面的图是我在设计订单状态时做的一张表，可以看看和你们的订单状态之间有多少差别。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h9btf6oijpj30za0u0wls.jpg)
+![](https://p.ipic.vip/lzhgi8.png)
 
 
 
@@ -75,7 +75,7 @@ OMS是业务中台中很重要的部分，承接了来自上游系统的数据�
 
 ### 订单拦截
 
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h9bsqx0vccj30lz047dg0.jpg)
+![订单整理学习-第 3 页.drawio](https://p.ipic.vip/42tmas.png)
 
 
 
