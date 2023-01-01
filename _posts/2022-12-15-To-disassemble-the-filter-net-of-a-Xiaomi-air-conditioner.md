@@ -15,7 +15,7 @@ tags:
 
 > 取出过滤网：用手抓住过滤网把手（如下图），先用力向外抽，过滤网把手翘起后，再轻轻抽出整个过滤网，过滤网含上/中/下3片。
 
-![小米柜式空调拆滤网教程](https://tva1.sinaimg.cn/large/008vxvgGgy1h96vrme13gj30r40u0wg8.jpg)
+![](https://p.ipic.vip/xaw3eo.PNG)
 
 如果是挂机空调的话，可以看百度经验的教程，链接放下面：
 
