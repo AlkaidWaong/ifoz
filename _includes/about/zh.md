@@ -4,8 +4,6 @@ Hey，我是Alkaid（a.k.a. 壹条熊），7年互联网产品，工作在上海
 
 ![22DBCFBF-BC31-4192-A52F-21DFAB8F3ED3](/Users/wangdong/Downloads/22DBCFBF-BC31-4192-A52F-21DFAB8F3ED3.JPG)
 
-![92BA5253-7EB7-46B3-9FFA-097A92E3E51A](https://p.ipic.vip/924uq3.jpg)
-
 虚拟分身日常出没在:
 
 - Twitter：https://twitter.com/AlkaidWaong
