@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "用户界面状态的思考"
-subtitle: ''
-date:       2015-09-19 00:00:00
+title: "2022:🐑过，再见"
+date:       2023-01-01 00:00:00
 author: "Alkaid"
-header-img: "https://p.ipic.vip/lhxt6p.png"
 tags:
   - 年度总结
 ---

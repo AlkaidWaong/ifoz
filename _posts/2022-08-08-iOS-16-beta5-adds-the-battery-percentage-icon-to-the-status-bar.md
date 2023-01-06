@@ -9,7 +9,6 @@ published: true
 header-img: "img/20220808-cover.png"
 tags:
   - iOS 16
-  - iPhone
 ---
 
 
