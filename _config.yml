@@ -1,8 +1,9 @@
 # Site settings
 title:          Alkaid's Blog
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://ifoz.net"
+url:            'https://ifoz.net'
+baseurl:        '/tale'
+
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
