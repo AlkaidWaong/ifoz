@@ -1,5 +1,5 @@
 # Site settings
-title:          Tale
+title:          Alkaid的博客
 description:    "Minimal Jekyll theme for storytellers"
 url:            "ifoz.net"
 
@@ -8,9 +8,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
+  name:         Alkaid
   url:          https://chester.how
-  email:        chesterhow@gmail.com
+  email:        alkaid.waong@gmail.com
 
 # Build settings
 markdown:       kramdown
@@ -32,11 +32,13 @@ plugins:
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
-permalink:      /:year-:month-:day/:title
+permalink:      /:title
 paginate:       10
 
+remote_theme: chesterhow/tale
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
 # Disqus (Set to your disqus id)
 disqus:         jekyll-tale
+comments: true
