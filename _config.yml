@@ -1,6 +1,7 @@
 # Site settings
 title:          Alkaid's Blog
 description:    "Minimal Jekyll theme for storytellers"
+baseurl:        "/blog"
 url:            "https://ifoz.net"
 
 # Google Analytics
@@ -31,7 +32,7 @@ plugins:
   - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
-permalink:      /:year-:month-:day/:title
+permalink:      /:title
 paginate:       10
 
 remote_theme: chesterhow/tale
