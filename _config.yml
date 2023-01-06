@@ -2,7 +2,7 @@
 title:          Alkaid's Blog
 description:    "Minimal Jekyll theme for storytellers"
 url:            'https://ifoz.net'
-baseurl:        '/'
+baseurl:        ''
 
 future:         true
 # Google Analytics
