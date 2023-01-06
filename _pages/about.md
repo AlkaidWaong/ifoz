@@ -1,15 +1,27 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Alkaid"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+![](https://p.ipic.vip/7u4nuk.png)
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+Hey，我是Alkaid（a.k.a. 壹条熊），7年互联网产品，工作在上海，周末在昆山花桥。生活中是人间凑数家，爱好是喝咖啡，打篮球，逛公园（瞎溜达）。
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+![](https://p.ipic.vip/ymze4e.jpg)
 
-Thanks for reading!
+## 
+虚拟分身日常出没在:
+
+- Twitter：[https://twitter.com/AlkaidWaong](https://twitter.com/AlkaidWaong)
+
+- Bilibili：[https://space.bilibili.com/35142354/](https://space.bilibili.com/35142354/)
+
+- Instagram：[https://www.instagram.com/alkaid_waong_/](https://www.instagram.com/alkaid_waong_/)
+
+- 知乎：[https://www.zhihu.com/people/toystoys](https://www.zhihu.com/people/toystoys)
+
+- 掘金：[https://juejin.cn/user/166781495812728](https://juejin.cn/user/166781495812728)
+
+  
