@@ -4,7 +4,7 @@ title: "聊一聊如何规避不靠谱的家政服务"
 subtitle: '购物要有常识，低价就不靠谱'
 date:       2022-08-15 16:30:00
 author: "Alkaid"
-header-img: ""/img/post-bg-unix-linux.jpg""
+header-img: /img/post-bg-unix-linux.jpg"
 tags:
   - 生活
 ---
