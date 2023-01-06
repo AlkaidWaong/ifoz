@@ -41,4 +41,5 @@ remote_theme: chesterhow/tale
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
 # Disqus (Set to your disqus id)
-disqus:         ifoz-net
+disqus:
+shortname:         ifoz-net
