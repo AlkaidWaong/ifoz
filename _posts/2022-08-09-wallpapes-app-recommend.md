@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "分享几个iPhone壁纸app和几张喜欢的壁纸"
+subtitle: '喜欢的东西就拿出来分享'
 author: "Alkaid"
+header-img: "img/20220809-cover.png"
 tags:
+  - 极简壁纸
   - app推荐
 ---
 
