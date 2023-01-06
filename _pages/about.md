@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About"
+title: "关于"
 author: "Alkaid"
 permalink: /about/
 ---
