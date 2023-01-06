@@ -2,6 +2,7 @@
 title:          Alkaid的博客
 description:    "Minimal Jekyll theme for storytellers"
 url:            "ifoz.net"
+baseurl:  "" 
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
