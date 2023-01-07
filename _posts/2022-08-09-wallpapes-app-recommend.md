@@ -3,7 +3,7 @@ layout: post
 title: "分享几个iPhone壁纸app和几张喜欢的壁纸"
 author: "Alkaid"
 tags:
-  - 好物推荐
+  - 薅物推荐
 ---
 
 
