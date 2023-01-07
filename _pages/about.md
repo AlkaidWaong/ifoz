@@ -11,6 +11,8 @@ Hey，我是Alkaid（a.k.a.壹条熊），7年互联网产品，工作在上海�
 
 关于花桥可以看看我的这篇文章[《小镇花桥生活攻略》](https://www.ifoz.net/2022-12-04/All-things-i-know-about-huaqiao)，里面有推荐公园。
 
+联系我：alkaid.waong#gmail.com(#替换为@)
+
 虚拟分身日常出没在:
 
 - Twitter：[https://twitter.com/AlkaidWaong](https://twitter.com/AlkaidWaong)
