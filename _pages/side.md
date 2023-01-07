@@ -5,14 +5,6 @@ author: "Alkaid"
 permalink: /side/
 ---
 
-
-
-```text
-[![沙漠中的岩石图片](https://p.ipic.vip/pr5f3c.png "Shiprock")](https://item.taobao.com/item.htm?ft=t&id=663854332130)
-```
-
-
-
 家电清洗副业目前已经稳定经营两年多，开始有点信心。
 
 这么久依然只能服务上海部分地区，原因是好的清洗师傅难找。期间也尝试拓展业务到杭州、宁波、苏州等长三角区域，整体服务质量下降明显放弃了。
