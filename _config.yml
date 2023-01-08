@@ -1,6 +1,6 @@
 # Site settings
 title:          Alkaid's Blog
-description:    "Minimal Jekyll theme for storytellers"
+description:    "物来顺应，未来不迎，当时不杂，既往不恋。"
 url:            'https://ifoz.net'
 baseurl:        ''
 
@@ -41,5 +41,6 @@ remote_theme: chesterhow/tale
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
 # Disqus (Set to your disqus id)
-disqus:
+disqus:            ifoz-net
 shortname:         ifoz-net
+comments:         true
