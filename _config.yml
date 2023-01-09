@@ -43,4 +43,4 @@ exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 # Disqus (Set to your disqus id)
 disqus:            ifoz-net
 shortname:         ifoz-net
-comments:         true
+comments:         false
