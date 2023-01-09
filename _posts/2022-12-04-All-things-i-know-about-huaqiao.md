@@ -4,7 +4,6 @@ title: "小镇花桥生活攻略"
 subtitle: '沪迁青年在这里的生活LOG'
 date:       2022-12-04 16:30:00
 author: "Alkaid"
-header-img: "https://tva1.sinaimg.cn/large/008vxvgGgy1h8qsfp9pwdj31400u0qbs.jpg"
 tags:
   - 生活
 ---
@@ -44,9 +43,9 @@ tags:
 
 #### 夜市
 
-![](/img/in-post-2022/IMG_1235.jpg)
+![](/img/in-post-2022/IMG_1235.JPG)
 
-![](/img/in-post-2022/IMG_1237.jpg)
+![](/img/in-post-2022/IMG_1237.JPG)
 
 #### 咖啡馆
 
@@ -62,7 +61,7 @@ tags:
 
 
 
-![IMG_4443](https://tva1.sinaimg.cn/large/008vxvgGgy1h8rwi9am7wj31400u0dsi.jpg)
+![IMG_4443](https://tva1.sinaimg.cn/large/008vxvgGgy1h8rwi9am7wj31400u0dsi.JPG)
 
 #### 码上鲜/万客隆 - 日常生活够用
 
@@ -98,7 +97,7 @@ tags:
 
 公共交通的话推荐上海地铁11号线（全国**首条跨省地铁**）和直通巴班车（微信搜**直通巴公众号**即可）。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h8qsfp9pwdj31400u0qbs.jpg)
+![](https://tva1.sinaimg.cn/large/008vxvgGgy1h8qsfp9pwdj31400u0qbs.JPG)
 
 上海地铁11号线在花桥设有有3个站点——兆丰路站、光明路站和花桥站。
 
@@ -118,7 +117,7 @@ tags:
 
 因为上海在花桥有好几块飞地，所以下面也会列出一些属于上海飞地的资源，具体的飞地我在下面的图中标记了出来。
 
-![Xnip2022-12-03_20-52-18](/img/Xnip2022-12-03_20-52-18.jpg)
+![Xnip2022-12-03_20-52-18](/img/Xnip2022-12-03_20-52-18.JPG)
 
 
 
@@ -193,7 +192,7 @@ tags:
 
 花桥是利通燃气提供的服务，一般小区都有燃气卡的充值点（问一下小区门口保安）。另外在**花桥行政服务中心一楼**有自助的充值点（在手扶电梯下方有玻璃门，需要**刷身份证**进门）。燃气卡充值后需要再插回家里的燃气表中等待同步成功（从0立方变成充值的立方数）。
 
-![image-20221204171023025](https://tva1.sinaimg.cn/large/008vxvgGgy1h8rw5yepglj31er0u0wn3.jpg)
+![image-20221204171023025](https://tva1.sinaimg.cn/large/008vxvgGgy1h8rw5yepglj31er0u0wn3.JPG)
 
 如果定居这边的话，行政服务中心大家应该都会有需要去的时候，可以看大概在哪里，心里有个印象。
 
@@ -207,67 +206,67 @@ tags:
 
 面积挺大的，就在绿地大道边上，晚上9点关门，骑小电驴去就行，里面可以停。
 
-![](/img/in-post-2022/IMG_3213.jpg)
+![](/img/in-post-2022/IMG_3213.JPG)
 
 夏天晚上闲下来会打手电去花溪公园池塘里探索，下图是发现的小虾米。
 
-![](/img/in-post-2022/IMG_3255.jpg)
+![](/img/in-post-2022/IMG_3255.JPG)
 
 #### 天福湿地公园 ⭐️⭐️⭐️⭐️⭐️推荐
 
 天福公园应该是花桥最大的公园了，不要门票，免费的。下午4点后只出不进，去的话早一点。车子要停在天福路边（公园里没有停车场），离公园入口有一定距离。
 
-![](/img/in-post-2022/IMG_1030.jpg)
+![](/img/in-post-2022/IMG_1030.JPG)
 
-![](/img/in-post-2022/IMG_1033.jpg)
+![](/img/in-post-2022/IMG_1033.JPG)
 
-![](/img/in-post-2022/IMG_4204.jpg)
+![](/img/in-post-2022/IMG_4204.JPG)
 
 #### 菉葭生态园  ⭐️⭐️⭐️⭐️推荐
 
 在花桥和陆家两个镇的中间一个公园，就一点：秋天记得来看向日葵🌻，一大片一大片的（不在公园里面，在公园的外边，注意看门口的指示牌）。
 
-![](/img/in-post-2022/IMG_4102.jpg)
+![](/img/in-post-2022/IMG_4102.JPG)
 
-![](/img/in-post-2022/IMG_4101.jpg)
+![](/img/in-post-2022/IMG_4101.JPG)
 
-![](/img/in-post-2022/IMG_4100.jpg)
+![](/img/in-post-2022/IMG_4100.JPG)
 
 #### 亭林园  ⭐️⭐️⭐️⭐️⭐️推荐
 
 位置在昆山市里，成人**门票20块钱**，面积大，可以爬山，有盆栽、假山、竹林、古树（有一颗千年的银杏树）。
 
-![](/img/in-post-2022/IMG_4275.jpg)
+![](/img/in-post-2022/IMG_4275.JPG)
 
-![](/img/in-post-2022/IMG_4271.jpg)
+![](/img/in-post-2022/IMG_4271.JPG)
 
-![](/img/in-post-2022/IMG_4267.jpg)
+![](/img/in-post-2022/IMG_4267.JPG)
 
-![](/img/in-post-2022/IMG_4266.jpg)
+![](/img/in-post-2022/IMG_4266.JPG)
 
-![](/img/in-post-2022/IMG_4260.jpg)
+![](/img/in-post-2022/IMG_4260.JPG)
 
-![](/img/in-post-2022/IMG_4262.jpg)
+![](/img/in-post-2022/IMG_4262.JPG)
 
 上图可以看到这颗千年银杏（右上角）和树下人的大小对比，挺震撼的。
 
-![](/img/in-post-2022/IMG_4254.jpg)
+![](/img/in-post-2022/IMG_4254.JPG)
 
-![](/img/in-post-2022/IMG_4249.jpg)
+![](/img/in-post-2022/IMG_4249.JPG)
 
 #### 昆山市城市生态森林公园 ⭐️⭐️⭐️⭐️⭐️推荐
 
 是我推荐所有公园里面积最大的一个，记得带一点吃的喝的东西，走走停停多补充体力，周末停车可能不少很方便需要注意。
 
-![](/img/in-post-2022/IMG_4126.jpg)
+![](/img/in-post-2022/IMG_4126.JPG)
 
-![](/img/in-post-2022/IMG_4166.jpg)
+![](/img/in-post-2022/IMG_4166.JPG)
 
-![](/img/in-post-2022/IMG_4165.jpg)
+![](/img/in-post-2022/IMG_4165.JPG)
 
-![](/img/in-post-2022/IMG_4167.jpg)
+![](/img/in-post-2022/IMG_4167.JPG)
 
-![](/img/in-post-2022/IMG_4189.jpg)
+![](/img/in-post-2022/IMG_4189.JPG)
 
 
 
@@ -275,23 +274,23 @@ tags:
 
 #### 锦溪古镇
 
-![](/img/in-post-2022/IMG_1182.jpg)
+![](/img/in-post-2022/IMG_1182.JPG)
 
-![](/img/in-post-2022/IMG_1188.jpg)
+![](/img/in-post-2022/IMG_1188.JPG)
 
-![](/img/in-post-2022/IMG_1190.jpg)
+![](/img/in-post-2022/IMG_1190.JPG)
 
 
 
 #### 周庄（不推荐）
 
-![](/img/in-post-2022/IMG_1487.jpg)
+![](/img/in-post-2022/IMG_1487.JPG)
 
-![](/img/in-post-2022/IMG_1491.jpg)
+![](/img/in-post-2022/IMG_1491.JPG)
 
-![](/img/in-post-2022/IMG_1541.jpg)
+![](/img/in-post-2022/IMG_1541.JPG)
 
-![](/img/in-post-2022/IMG_1502.jpg)
+![](/img/in-post-2022/IMG_1502.JPG)
 
 
 
@@ -315,7 +314,7 @@ tags:
 
 #### 绿地社区
 
-![IMG_3557](https://tva1.sinaimg.cn/large/008vxvgGgy1h8rxtewyamj30u0140jzu.jpg)
+![IMG_3557](https://tva1.sinaimg.cn/large/008vxvgGgy1h8rxtewyamj30u0140jzu.JPG)
 
 绿地社区上海人多，整体楼层低，小区密度低，不少联排和独栋别墅，绿化环境好。大多是在2008年左右交房的，相比的话算老小区了。如果喜欢安静的话，可以考虑这边。主要的小区：绿地21城A，B，C，D（绿地国际家园)，E5个小区加上绿地启航社，U时代和鑫苑。
 
@@ -325,7 +324,7 @@ tags:
 
 主要是建滔广场附近的办公区，里面有一些上海公司在这边的分公司（一般支持缴纳上海五险一金），这边小区最大的优势是离光明路地铁站近。
 
-![](/img/in-post-2022/IMG_0564.jpg)
+![](/img/in-post-2022/IMG_0564.JPG)
 
 #### 工业区
 
