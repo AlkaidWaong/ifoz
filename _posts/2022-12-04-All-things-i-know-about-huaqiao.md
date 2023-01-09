@@ -42,13 +42,17 @@ tags:
 | 百素我家酸菜鱼          | 绿地大道721号1室  | 鱼火锅   | ￥90/人  | 如店名吃酸菜鱼就是了，价格亲民。                             |
 | 谭鸭血火锅              |                   | 火锅     |          | 麻辣火锅                                                     |
 
+#### 夜市
 
+![](/img/in-post-2022/IMG_1235.jpg)
+
+![](/img/in-post-2022/IMG_1237.jpg)
 
 #### 咖啡馆
 
-咖啡店这边不算太多，上海常见的一些咖啡店可能这边是没有的。最多的是星巴克和瑞幸。推荐一家我觉得还不错的——**加利略咖啡** 。
+咖啡店这边不算太多，上海常见的一些咖啡店可能这边是没有的。最多的是星巴克和瑞幸。推荐一家我觉得还不错的——**加利略咖啡**(双联国际商务中心) 。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h8qnigwghvj30zd0u0aen.jpg)
+![加力略咖啡](/img/in-post-2022/IMG_4592.PNG)
 
 ### 购物去哪里？
 
@@ -56,7 +60,7 @@ tags:
 
 这两个地方在绿地大道的两侧，离得近。游站地下是商超，一楼有星爸爸，乐尚二楼有卜缝莲花，晚上有夜市。
 
-![IMG_4441](https://tva1.sinaimg.cn/large/008vxvgGgy1h8rwh5bht3j31400u0gum.jpg)
+
 
 ![IMG_4443](https://tva1.sinaimg.cn/large/008vxvgGgy1h8rwi9am7wj31400u0dsi.jpg)
 
@@ -122,27 +126,21 @@ tags:
 
 **万狮村核酸采样点**
 
-![image-20221203221026210](https://tva1.sinaimg.cn/large/008vxvgGgy1h8qz7xm8q3j30wy0u0456.jpg)
+![万狮村核酸点](/img/in-post-2022/IMG_4426.PNG)
 
 位置：万狮村北村58号北侧
 
-工作时间：上午 8：30 ~ 11：30，下午5：30 ~ 8：30
+工作时间：~~上午 8：30 ~ 11：30，下午5：30 ~ 8：30~~
 
 说明：核酸点在停车场里，开车去很方便
 
-![IMG_4425](https://tva1.sinaimg.cn/large/008vxvgGgy1h8rwfko2c5j31400u0qa6.jpg)
-
 **新江居委核酸采样点（绿地晶座）**
-
-![image-20221203221630445](https://tva1.sinaimg.cn/large/008vxvgGgy1h8qze5uu8qj30yh0u0te1.jpg)
 
 位置：绿地启航城晶座30号停车场
 
-工作时间：上午 8：30 ~ 11：30，下午5：30 ~ 8：30（如果社区大筛则关闭，可以在晶座一号门做）
+工作时间：~~上午 8：30 ~ 11：30，下午5：30 ~ 8：30（如果社区大筛则关闭，可以在晶座一号门做）~~
 
 说明：核酸点在晶座小区里，**停车不方便**，建议停在绿地大道易买得腿着去
-
-![IMG_4437](https://tva1.sinaimg.cn/large/008vxvgGgy1h8rwerenu6j31400u07dz.jpg)
 
 #### 医院（亲测可刷上海医保）
 
@@ -187,15 +185,9 @@ tags:
 
 华东台商子女学校（为台商子女就学的学校）
 
-![Xnip2022-12-03_21-15-14](/img/Xnip2022-12-03_21-15-14.jpg)
-
 #### 菜市场2座
 
 主要的菜市场：巷浦路菜市场、花桥集贸市场。当然这边还可以路边找附近的农家买菜和去超市买，具体看大家的需要了。
-
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h8qvtwmpi9j319r0u0n5j.jpg)
-
-
 
 #### 燃气缴费
 
@@ -223,57 +215,59 @@ tags:
 
 #### 天福湿地公园 ⭐️⭐️⭐️⭐️⭐️推荐
 
-![Xnip2022-12-03_21-28-29](https://tva1.sinaimg.cn/large/008vxvgGgy1h8qy0qlq2sj31cd0u0tc6.jpg)
-
 天福公园应该是花桥最大的公园了，不要门票，免费的。下午4点后只出不进，去的话早一点。车子要停在天福路边（公园里没有停车场），离公园入口有一定距离。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h8qp3s3mhnj30u0140wr9.jpg)
+![](/img/in-post-2022/IMG_1030.jpg)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h8qp4rarvgj31400u0tk5.jpg)
+![](/img/in-post-2022/IMG_1033.jpg)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h8qpfnytooj31400u0aeu.jpg)
-
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h8qpd59wtaj31400u0dlw.jpg)
+![](/img/in-post-2022/IMG_4204.jpg)
 
 #### 菉葭生态园  ⭐️⭐️⭐️⭐️推荐
 
 在花桥和陆家两个镇的中间一个公园，就一点：秋天记得来看向日葵🌻，一大片一大片的（不在公园里面，在公园的外边，注意看门口的指示牌）。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h8qp65lrs9j31900u0n7x.jpg)
+![](/img/in-post-2022/IMG_4102.jpg)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h8qp6hanpwj31900u0amt.jpg)
+![](/img/in-post-2022/IMG_4101.jpg)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h8qp6qq5bdj31900u0gr4.jpg)
+![](/img/in-post-2022/IMG_4100.jpg)
 
 #### 亭林园  ⭐️⭐️⭐️⭐️⭐️推荐
 
 位置在昆山市里，成人**门票20块钱**，面积大，可以爬山，有盆栽、假山、竹林、古树（有一颗千年的银杏树）。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h8qolj7bo3j30u011itt8.jpg)
+![](/img/in-post-2022/IMG_4275.jpg)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h8qom4yxbgj31400u0nah.jpg)
+![](/img/in-post-2022/IMG_4271.jpg)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h8qoms62toj30u01407dn.jpg)
+![](/img/in-post-2022/IMG_4267.jpg)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h8qoqb5gc6j30u0140qiz.jpg)
+![](/img/in-post-2022/IMG_4266.jpg)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h8qoo0tg9tj30u0140k89.jpg)
+![](/img/in-post-2022/IMG_4260.jpg)
+
+![](/img/in-post-2022/IMG_4262.jpg)
 
 上图可以看到这颗千年银杏（右上角）和树下人的大小对比，挺震撼的。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h8qooix1mqj30u0140dta.jpg)
+![](/img/in-post-2022/IMG_4254.jpg)
+
+![](/img/in-post-2022/IMG_4249.jpg)
 
 #### 昆山市城市生态森林公园 ⭐️⭐️⭐️⭐️⭐️推荐
 
 是我推荐所有公园里面积最大的一个，记得带一点吃的喝的东西，走走停停多补充体力，周末停车可能不少很方便需要注意。
 
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h8qpkmi8ndj30u011in7f.jpg)
+![](/img/in-post-2022/IMG_4126.jpg)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h8qpl84ycmj30u011iail.jpg)
+![](/img/in-post-2022/IMG_4166.jpg)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h8qp2821zsj30u0140155.jpg)
+![](/img/in-post-2022/IMG_4165.jpg)
 
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h8qp2ndx89j30u0140n3t.jpg)
+![](/img/in-post-2022/IMG_4167.jpg)
+
+![](/img/in-post-2022/IMG_4189.jpg)
 
 
 
