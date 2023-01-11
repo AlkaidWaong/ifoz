@@ -250,6 +250,8 @@ tags:
 
 ![](/img/in-post-2022/IMG_4262.JPG)
 
+![](/img/in-post-2022/IMG_4252.JPG)
+
 上图可以看到这颗千年银杏（右上角）和树下人的大小对比，挺震撼的。
 
 ![](/img/in-post-2022/IMG_4254.JPG)
