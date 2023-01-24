@@ -1,19 +1,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-   <!-- 百度统计代码 -->
-  <script>
-  var _hmt = _hmt || [];
-  (function() {
-    var hm = document.createElement("script");
-    hm.src = "https://hm.baidu.com/hm.js?12afa0b54500f20cf5fe37f34e44e775";
-    var s = document.getElementsByTagName("script")[0]; 
-    s.parentNode.insertBefore(hm, s);
-  })();
-  </script>
-  
-  
+    
   {% seo %}
 
   <!-- CSS -->
@@ -27,6 +15,17 @@
 
   <!-- RSS -->
   {% feed_meta %}
+  
+   <!-- 百度统计代码 -->
+  <script>
+  var _hmt = _hmt || [];
+  (function() {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?12afa0b54500f20cf5fe37f34e44e775";
+    var s = document.getElementsByTagName("script")[0]; 
+    s.parentNode.insertBefore(hm, s);
+  })();
+  </script>
 
   <!-- Google Analytics
   {% if site.google_analytics and jekyll.environment == 'production' %}
