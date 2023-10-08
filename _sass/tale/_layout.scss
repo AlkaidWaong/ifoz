@@ -23,6 +23,10 @@ footer,
     text-align: center;
   }
 
+  &-avatar{
+    display: flex;
+  }
+  
   &-title {
     @include transition(all .2s ease-out);
     color: $default-color;
