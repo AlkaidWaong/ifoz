@@ -5,7 +5,6 @@ author: "Alkaid"
 permalink: /about/
 ---
 
-![Open Peeps - Avatar and Backdrop](../assets/avatar.png)
 
 Hey，我是Alkaid（a.k.a.壹条熊），7年互联网产品，工作在上海，周末在[昆山花桥](https://baike.baidu.com/item/%E8%8A%B1%E6%A1%A5%E9%95%87/2722997)。生活中是人间凑数家，爱喝咖啡，打篮球，逛公园（瞎溜达）。
 
