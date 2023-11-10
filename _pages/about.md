@@ -6,7 +6,7 @@ permalink: /about/
 ---
 
 
-Hey，我是Alkaid（a.k.a.壹条熊），7年互联网产品，工作日上海打工人，周末[昆山花桥]街溜子(https://baike.baidu.com/item/%E8%8A%B1%E6%A1%A5%E9%95%87/2722997)。人间凑数家，爱喝咖啡，打篮球，逛公园（现在叫city walk）。
+Hey，我是Alkaid（a.k.a.壹条熊），7年互联网产品，工作日上海打工人，周末**昆山街溜子**。人间凑数家，爱喝咖啡，打篮球，逛公园（现在叫city walk）。
 
 关于花桥可以看看我的这篇文章[《小镇花桥生活攻略》](https://www.ifoz.net/2022-12-04/All-things-i-know-about-huaqiao)，里面有推荐公园。
 
