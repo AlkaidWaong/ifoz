@@ -5,11 +5,13 @@
     display: block;
     padding: 2rem 0;
 
+    /*
+    去掉标题下线条
     &:hover .catalogue-line,
     &:focus .catalogue-line {
       width: 5rem;
     }
-
+      */
     &:last-child {
       border: 0;
     }
@@ -31,9 +33,10 @@
     color: $default-shade;
     display: block;
     font-family: $sans-serif;
-    font-size: 1.8rem;
-    font-weight: 700;
+    font-size: 1.5rem;
+    font-weight: 500;
     margin: .5rem 0;
+    letter-spacing: 0.6px;
   }
 
   &-line {

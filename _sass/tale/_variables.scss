@@ -1,6 +1,6 @@
 // Colors
 $default-color: #555 !default;
-$default-shade: #353535 !default;
+$default-shade: #252525 !default;
 $default-tint: #aaa !default;
 $grey-1: #979797 !default;
 $grey-2: #e5e5e5 !default;
@@ -13,7 +13,7 @@ $code-color: #bf616a !default;
 // Fonts
 $serif-primary: 'Montserrat', 'SF UI Text', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Segoe UI', 'Helvetica Neue', 'Helvetica', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif !default;
 $serif-secondary:  sans-serif !default;
-$sans-serif: Arial, sans-serif !default;
+$sans-serif: 'Montserrat', 'SF UI Text', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Segoe UI', 'Helvetica Neue', 'Helvetica', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif !default;
 $monospaced: Menlo, Monaco, monospace !default;
 
 @mixin box-sizing($type: border-box) {
