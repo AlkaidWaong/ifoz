@@ -11,7 +11,7 @@ $shadow-color: rgba(0, 0, 0, .2) !default;
 $code-color: #bf616a !default;
 
 // Fonts
-$serif-primary: 'Noto Sans SC', sans-serif !default;
+$serif-primary: 'Montserrat', 'SF UI Text', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Segoe UI', 'Helvetica Neue', 'Helvetica', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif !default;
 $serif-secondary:  sans-serif !default;
 $sans-serif: Arial, sans-serif !default;
 $monospaced: Menlo, Monaco, monospace !default;
@@ -27,3 +27,5 @@ $monospaced: Menlo, Monaco, monospace !default;
      -moz-transition: $args;
           transition: $args;
 }
+
+
