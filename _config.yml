@@ -34,13 +34,13 @@ plugins:
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
-paginate:       10
+paginate:       5
 
 remote_theme: chesterhow/tale
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
 # Disqus (Set to your disqus id)
-disqus:            ifoz-net
+# sdisqus:            ifoz-net
 shortname:         Alkaid
 comments:         false
