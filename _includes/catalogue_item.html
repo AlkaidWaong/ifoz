@@ -3,7 +3,9 @@
     {% if include.sticky == 'true' %}
     <span class="catalogue-pinned">Pinned &middot;</span>
     {% endif %}
+    <!-- 去掉列表中的发布时间
     <time datetime="{{ post.date }}" class="catalogue-time">Post on {{ post.date | date: "%Y年%m月%d日" }}</time>
+    -->
     <h2 class="catalogue-title">{{ post.title }}</h2>
     <div class="catalogue-line"></div>
 
