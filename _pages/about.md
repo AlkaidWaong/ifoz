@@ -20,6 +20,31 @@ Hey，我是Alkaid（a.k.a.壹条熊），7年互联网产品，工作日上海�
 
 - 2015 ~ 2019：教育行业产品经理，参与过百万级付费用户的产品；
 
+
+
+### 软件
+
+**Mac app**
+
+- [PasteNow](https://apps.apple.com/us/app/pastenow-%E5%89%AA%E8%B4%B4%E6%9D%BF%E5%B7%A5%E5%85%B7/id1552536109?l=zh-Hans-CN)：图拉鼎开发的剪切板工具，对颜色和微信内容的分类很好用
+- Arc浏览器：学习成本稍高,熟练后体验不错。
+- [Typora](https://typora.io/)：用了很多年的Markdown App，实时预览很好
+- [Raycast](https://www.raycast.com/)：替代spotlight的，有很多Extension值得探索一番。
+- [Things 3](https://apps.apple.com/us/app/things-3/id904280696?l=zh-Hans-CN&mt=12)：GTD工具，用了很多年，快捷录入新todo很方便
+- [Spark](https://apps.apple.com/us/app/spark-mail-ai-%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%99%BA%E8%83%BD%E9%82%AE%E7%AE%B1%E5%92%8C%E6%97%A5%E5%8E%86/id6445813049?l=zh-Hans-CN&mt=12)：邮件客户端，最好用的是邮件模版，方便快速写或回复很多周期性邮件。
+- [Textmate](https://macromates.com/)：我Mac上的文本处理工具。
+- AppCleaner：软件卸载工具，直接拖拽到App内卸载很方便。
+- [Calibre](https://calibre-ebook.com/)：电子书管理软件，交互和体验不太行，但可替代的工具目前还没找到。
+
+
+
+**浏览器插件**
+
+- [Immersive Translate](https://chromewebstore.google.com/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E5%8F%8C%E8%AF%AD%E5%AF%B9%E7%85%A7%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91-pdf%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/bpoadfkcbjbfhfodiogcnhhhpibjhbnh?pli=1)：支持双语对照翻译，支持PDF文档翻译
+- [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)：广告过滤
+
+
+
 ### 联系
 
 Email：alkaid.waong{at}foxmail.com
