@@ -24,7 +24,7 @@ Hey，我是Alkaid（a.k.a.壹条熊），7年互联网产品，工作日上海�
 
 ### 软件
 
-**Mac app**
+#### Mac app
 
 - [PasteNow](https://apps.apple.com/us/app/pastenow-%E5%89%AA%E8%B4%B4%E6%9D%BF%E5%B7%A5%E5%85%B7/id1552536109?l=zh-Hans-CN)：图拉鼎开发的剪切板工具，对颜色和微信内容的分类很好用。
 - [Justfocus](https://getjustfocus.com/?ref=just-focus-mac)：一款简洁的番茄闹钟工具，方便工作中及时休息。
@@ -39,21 +39,17 @@ Hey，我是Alkaid（a.k.a.壹条熊），7年互联网产品，工作日上海�
 
 
 
-**浏览器插件**
+#### 浏览器插件
 
 - [Immersive Translate](https://chromewebstore.google.com/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E5%8F%8C%E8%AF%AD%E5%AF%B9%E7%85%A7%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91-pdf%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/bpoadfkcbjbfhfodiogcnhhhpibjhbnh?pli=1)：支持双语对照翻译，支持PDF文档翻译
 - [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)：广告过滤
 
 
 
-**信息追踪**
+#### 信息追踪
 
 - [Macrumors](https://www.macrumors.com/)：专注于苹果（Apple）产品和技术的社区网站，汇集了来自全球的粉丝、技术专家和消费者。
 - [Product Hunt](https://www.producthunt.com/)：一个以发现和推广新产品为主题的社区平台。在这里，创业者和产品爱好者们可以分享、发现和讨论最新的互联网产品、应用和工具。
-
-
-
-**购物**
 
 
 
