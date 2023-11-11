@@ -26,7 +26,8 @@ Hey，我是Alkaid（a.k.a.壹条熊），7年互联网产品，工作日上海�
 
 **Mac app**
 
-- [PasteNow](https://apps.apple.com/us/app/pastenow-%E5%89%AA%E8%B4%B4%E6%9D%BF%E5%B7%A5%E5%85%B7/id1552536109?l=zh-Hans-CN)：图拉鼎开发的剪切板工具，对颜色和微信内容的分类很好用
+- [PasteNow](https://apps.apple.com/us/app/pastenow-%E5%89%AA%E8%B4%B4%E6%9D%BF%E5%B7%A5%E5%85%B7/id1552536109?l=zh-Hans-CN)：图拉鼎开发的剪切板工具，对颜色和微信内容的分类很好用。
+- [Justfocus](https://getjustfocus.com/?ref=just-focus-mac)：一款简洁的番茄闹钟工具，方便工作中及时休息。
 - Arc浏览器：学习成本稍高,熟练后体验不错。
 - [Typora](https://typora.io/)：用了很多年的Markdown App，实时预览很好
 - [Raycast](https://www.raycast.com/)：替代spotlight的，有很多Extension值得探索一番。
