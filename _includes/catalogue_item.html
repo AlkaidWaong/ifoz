@@ -1,7 +1,7 @@
 <a href="{{ post.url | relative_url }}" class="catalogue-item">
   <div>
     {% if include.sticky == 'true' %}
-    <span class="catalogue-pinned">Pinned &middot;</span>
+    <span class="catalogue-pinned">📌 置顶</span>
     {% endif %}
     <!-- 去掉列表中的发布时间
     <time datetime="{{ post.date }}" class="catalogue-time">Post on {{ post.date | date: "%Y年%m月%d日" }}</time>
