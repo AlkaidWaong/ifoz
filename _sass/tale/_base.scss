@@ -35,6 +35,10 @@ h6 {
   line-height: 2rem;
 }
 
+strong {
+  color: $code-color;
+}
+
 a {
   color: $blue;
   text-decoration: none;
