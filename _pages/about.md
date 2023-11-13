@@ -77,7 +77,7 @@ Hey，我是Alkaid（a.k.a.壹条熊），8年互联网产品，工作日上海�
 
 Email：alkaid.waong{at}foxmail.com
 
-🐦𝕏 ：@AlkaidWaong
+🐦𝕏 ：[@AlkaidWaong](https://twitter.com/AlkaidWaong)
 
 
 
