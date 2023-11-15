@@ -17,4 +17,4 @@ tags:
 
 出现这种情况推荐用**Fix Kindle Ebook Cover**这个小工具进行修复，下载地址：https://github.com/bookfere/Fix-Kindle-Ebook-Cover/releases，选中Kindle文件夹点击Recover，等待修复完成即可。
 
-![image-20231106100105221](/Users/wangdong/Library/Application%20Support/typora-user-images/image-20231106100105221.png)
+![WechatIMG210.jpg](https://s2.loli.net/2023/11/15/UEWyjB9Gt2kzhqS.png)
