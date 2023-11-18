@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "kindle电子书封面丢失问题修复方法"
+title: "一招解决Kindle电子书封面不显示问题"
 date:      2023-08-10 21:29:00
 author: "Alkaid"
 tags:
@@ -9,7 +9,7 @@ tags:
 
 
 
-使用Kindle的小伙伴很多都用Calibre打造私人书库，有时候会遇到封面丢失，影响美观。
+使用Kindle的小伙伴很多都用Calibre打造私人书库，有时候会遇到封面不现实，影响美观。
 
 ![image-20231106093637379](https://p.ipic.vip/743f6z.png)
 
