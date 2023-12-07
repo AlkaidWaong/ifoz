@@ -10,7 +10,9 @@ tags:
 
 最近在Apple Podcast、Spotify上发布了自己的播客[《Beditme Story For Kids》](https://podcasts.apple.com/us/podcast/bedtime-story-for-kids/id1717719475?i=1000636728013)，这个播客的初衷是为我女儿做的哄睡节目。
 
-使用了不少的Ai产品来完成，包括：
+<a href="https://podcasts.apple.com/us/podcast/bedtime-story/id1717719475?itsct=podcast_box_badge&amp;itscg=30200&amp;ls=1" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/listen-on-apple-podcasts/badge/en-us?size=250x83&amp;releaseDate=1701690420" alt="Listen on Apple Podcasts" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+
+使用了不少的Ai产品来完成，包括：s
 
 1. 故事脚本生成：ChatGPT
 2. 封面设计：[Bing Image Creator](https://www.bing.com/create) /   [adobe express](https://new.express.adobe.com/)
@@ -50,3 +52,6 @@ tags:
 
 🎄✨ 祝愿大家有一个充满爱、欢笑和魔法睡前故事的圣诞快乐！ 🌙🌟🎄
 
+
+
+<a href="https://podcasts.apple.com/us/podcast/bedtime-story/id1717719475?itsct=podcast_box_badge&amp;itscg=30200&amp;ls=1" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/listen-on-apple-podcasts/badge/en-us?size=250x83&amp;releaseDate=1701690420" alt="Listen on Apple Podcasts" style="border-radius: 13px; width: 250px; height: 83px;"></a>
