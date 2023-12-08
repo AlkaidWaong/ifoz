@@ -2,7 +2,7 @@
 layout: post
 title: "🎙Podcast"
 author: "Alkaid"
-permalink: /BedtimeStories/s
+permalink: /BedtimeStories/
 ---
 
 ### Bedtime Story For Kids
