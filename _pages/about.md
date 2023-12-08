@@ -10,7 +10,7 @@ Hey，我是Alkaid（a.k.a.壹条熊），8年互联网产品，工作日上海�
 
 关于花桥可以看看我的这篇文章[《小镇花桥生活攻略》](https://www.ifoz.net/2022-12-04/All-things-i-know-about-huaqiao)，里面有推荐公园。
 
-<iframe id="embedPlayer" src="https://embed.podcasts.apple.com/us/podcast/bedtime-story/id1717719475?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 960px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s 6 loading-indicator; background-color: rgb(228, 228, 228);"></iframe>
+
 
 ### Bedtime Story For Kids
 
