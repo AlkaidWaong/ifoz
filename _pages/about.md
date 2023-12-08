@@ -12,13 +12,31 @@ Hey，我是Alkaid（a.k.a.壹条熊），8年互联网产品，工作日上海�
 
 
 
-### 🤸🏻一些经历
+### Bedtime Story For Kids
 
-- 2023 ～ NOW：在探索玩教具、早教与O2O的结合；
+我在制作的一款儿童英文启蒙的睡前故事播客，灵感来源于给我女儿哄睡！
 
-- 2019 ～ 2022：在O2O领域探索**一站式家居维保**，以B端产品负责人角色负责**服务供给建设**、**服务交付**、**城市运营**等相关的产品工作；
+<iframe id="embedPlayer" src="https://embed.podcasts.apple.com/us/podcast/bedtime-story/id1717719475?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s 6 loading-indicator; background-color: rgb(228, 228, 228);"></iframe>
 
-- 2015 ~ 2019：教育行业产品经理，参与过百万级付费用户的产品；
+如果觉得内容还不错，想表达你的支持，可以在 Apple Podcast留下你的评论，感谢！ 
+
+<a href="https://podcasts.apple.com/us/podcast/bedtime-story/id1717719475?itsct=podcast_box_badge&amp;itscg=30200&amp;ls=1" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/listen-on-apple-podcasts/badge/en-us?size=250x83&amp;releaseDate=1701690420" alt="Listen on Apple Podcasts" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+
+存在网络限制？我们的播客也在小宇宙和喜马拉雅中发布，同样欢迎👏你的聆听。
+
+- [通过小宇宙收听](https://bedtimestories.podcast.xyz)
+- [喜马拉雅收听](https://m.ximalaya.com/album/79263844?from=pc)
+
+
+
+### 关注的创作者
+
+- [IvyZang](http://www.ivyzang.com)：早教行业从业，做过美吉姆教师主管，做过早教课程研发。
+
+- [图拉鼎](https://imtx.me/) ：PasteNow、Juice、MarkMark的开发者，日常在x.com很活跃。
+- [罗磊](https://luolei.org/) ：前端开发者，印象最深刻的是珠峰下测sim卡。
+- [61](https://https://61.life/)： 谜底科技老板，app经常被app store推荐，很厉害。
+- [baye](https://twitter.com/waylybaye)：熊猫吃短信、ServerCat、后续、DAMA的开发者。
 
 
 
