@@ -6,7 +6,7 @@ author: "Alkaid"
 sticky: true
 header-img: "https://sm.ms/image/Bezgcv1SlKpmj6D"
 tags:
-  - 思无邪
+  - Podcast
 ---
 
 最近在Apple Podcast、Spotify上发布了自己的播客[《Beditme Story For Kids》](https://podcasts.apple.com/us/podcast/bedtime-story-for-kids/id1717719475?i=1000636728013)，这个播客的初衷是为我女儿做的哄睡节目。
