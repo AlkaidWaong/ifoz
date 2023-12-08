@@ -2,7 +2,6 @@
 title:          Alkaid's Blog
 description:    "物来顺应，未来不迎，当时不杂，既往不恋。"
 url:            'https://blog.ifoz.net'
-baseurl:        ''
 
 future:         true
 # Google Analytics
@@ -33,7 +32,7 @@ plugins:
   - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
-permalink:      /:year-:month-:day/:title
+permalink:      /:title
 paginate:       5
 
 remote_theme: chesterhow/tale
