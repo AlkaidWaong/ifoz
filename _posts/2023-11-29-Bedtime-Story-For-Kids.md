@@ -13,7 +13,7 @@ tags:
 
 <a href="https://podcasts.apple.com/us/podcast/bedtime-story/id1717719475?itsct=podcast_box_badge&amp;itscg=30200&amp;ls=1" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/listen-on-apple-podcasts/badge/en-us?size=250x83&amp;releaseDate=1701690420" alt="Listen on Apple Podcasts" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
-使用了不少的Ai产品来完成，包括：s
+使用了不少的Ai产品来完成，包括：
 
 1. 故事脚本生成：ChatGPT
 2. 封面设计：[Bing Image Creator](https://www.bing.com/create) /   [adobe express](https://new.express.adobe.com/)

@@ -5,11 +5,14 @@ subtitle: ''
 date:       2022-12-21 23:54:00
 author: "Alkaid"
 header-img: "/img/post-bg-unix-linux.jpg"
+excerpt_separator: <!--more-->
 tags:
   - OMS订单系统
 ---
 
 OMS是业务中台中很重要的部分，承接了来自上游系统的数据，进行处理并向下游的系统传递（如WMS）。中间还要与财务系统这样的相关业务系统进行数据传递。因此，订单是承载了大量的数据且需要有极快的处理效率。
+
+ <!--more-->
 
 ![oms_001](https://p.ipic.vip/3nuoha.png)
 
