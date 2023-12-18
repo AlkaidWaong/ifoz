@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>产品中的多级帮助系统 | Alkaid’s Blog</title>
+<meta name="generator" content="Jekyll v4.3.2" />
+<meta property="og:title" content="产品中的多级帮助系统" />
+<meta name="author" content="Alkaid" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="介绍" />
+<meta property="og:description" content="介绍" />
+<link rel="canonical" href="https://blog.ifoz.net/How-to-design-user-guide-system" />
+<meta property="og:url" content="https://blog.ifoz.net/How-to-design-user-guide-system" />
+<meta property="og:site_name" content="Alkaid’s Blog" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2017-04-18T08:00:00+08:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="产品中的多级帮助系统" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Alkaid"},"dateModified":"2017-04-18T08:00:00+08:00","datePublished":"2017-04-18T08:00:00+08:00","description":"介绍","headline":"产品中的多级帮助系统","mainEntityOfPage":{"@type":"WebPage","@id":"https://blog.ifoz.net/How-to-design-user-guide-system"},"url":"https://blog.ifoz.net/How-to-design-user-guide-system"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
+
+  <!-- Favicon -->
+
+    <!-- 谷歌收录验证 -->
+  <meta name="google-site-verification" content="rfXv47XC2WF7BqtHmKR3nj2TZxP-opU4kYnrZUmcPgM" />
+    <!-- 百度收录验证 -->
+  <meta name="baidu-site-verification" content="codeva-b1eGVA4oQ8" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+
+  <!-- RSS -->
+  <link type="application/atom+xml" rel="alternate" href="https://blog.ifoz.net/feed.xml" title="Alkaid's Blog" />
+  
+   <!-- 百度统计代码 -->
+  <script>
+  var _hmt = _hmt || [];
+  (function() {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?12afa0b54500f20cf5fe37f34e44e775";
+    var s = document.getElementsByTagName("script")[0]; 
+    s.parentNode.insertBefore(hm, s);
+  })();
+  </script>
+
+  <!-- Google Analytics
+  
+	  
+	  -->
+</head>
+
+
+  <body>
+
+    <nav class="nav">
+  <div class="nav-container">
+    <a href="/" >
+      <h2 class="nav-title">Alkaid's Blog</h2>
+    </a>
+    <ul>
+      <li><a href="/">Posts</a></li>
+      <li><a href="/tags">Archives</a></li>
+      <li><a href="/about">About</a></li>
+	    <li><a href="/BedtimeStories">🎙 Podcast</a></li>
+    </ul>
+  </div>
+</nav>
+
+
+    <main>
+      <div class="post">
+  <div class="post-info">
+    <span>Written by</span>
+    
+        Alkaid
+    
+
+    
+      <br>
+      <span>on&nbsp;</span><time datetime="2017-04-18 08:00:00 +0800">2017年04月18日</time>
+    
+  </div>
+
+  <h1 class="post-title">产品中的多级帮助系统</h1>
+  <div class="post-line"></div>
+
+  <h3 id="介绍">介绍</h3>
+
+<p>我们使用互联网产品的时候多少回遇到困惑，不解，需要依赖于产品提供的帮助文档，产品社区或人工解答。多级帮助是从使用场景和不同用户群体出发，支持用户的不同需要。</p>
+
+<p>在你的应用用户体量较大，产品很复杂的时候，帮助系统能够给用户更多的支撑。要知道，有些用户可能会需要完整详细的帮助系统，但绝大多数用户是不会使用这个系统的。作为一只产品汪，我们也期望那些没有足够耐心甚至使用频率较低的用户得到帮助支持。如果你从事的B端业务，怎么让新手用户能尽快尽可能轻松过度到熟练用户是一个值得思考的问题，不然对客服和销售来说会有一定的压力。</p>
+
+<h3 id="分类">分类</h3>
+
+<p>我一般会把多级帮助系统分为5种：</p>
+
+<ol>
+  <li>
+    <p>新手帮助</p>
+  </li>
+  <li>
+    <p>基于场景的任务帮助</p>
+  </li>
+  <li>
+    <p>完整的帮助文档体系</p>
+  </li>
+  <li>
+    <p>社区支持：如小米论坛，苹果社区等</p>
+  </li>
+  <li>
+    <p>实时支持：如400电话，在线客服等</p>
+  </li>
+</ol>
+
+<p>在构建多级帮助系统前</p>
+
+<p>从上文种我们已经知道，多级帮助系统是为了支持不同用户以及不同场景下的用户任务，那么我们就需要明确一些概念和流程：</p>
+
+<ol>
+  <li>
+    <p>通过数据，访谈等形式梳理用户画像，这里主要是区分出新手用户，中级用户和专家用户，了解不同用户的使用诉求；</p>
+  </li>
+  <li>
+    <p>梳理用户任务，构建用户任务地图，这里需要根据第一步种的用户类型建立关联，按照用户类型划分任务，就算同一个任务，不同用户类型的操作也存在差异；</p>
+  </li>
+  <li>
+    <p>接下来是确定多级帮助系统采用的分类，既然是多级帮助，那么肯定会采用上面5类中的多种；</p>
+  </li>
+  <li>
+    <p>按照任务场景设计具体帮助页面即可；</p>
+  </li>
+</ol>
+
+<p>这里值得一说的是很多同学还是不太理解哪些东西属于帮助系统，我认为输入提示，空值提示这些都是，甚至一个好的文案也是，因为它帮助用户正确的理解。</p>
+
+<h3 id="以石墨文档示例">以石墨文档示例</h3>
+
+<p>秉承”说的再多,不如懂我”的自娱自乐精神，下面拿「石墨文档web版」搞事情，不，说事情。</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>![img](https://upload-images.jianshu.io/upload_images/900966-001f173baddc0104.png?imageMogr2/auto-orient/strip</td>
+      <td>imageView2/2/w/782/format/webp)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>这是一个工具提示，一般通过简要文字概括，通过光标触发。石墨文档这里不仅在文档协作页面通过这个工具提示，在写作这个特定场景下，满足用户增加缩紧的目标，同时还进一步的引导用户使用快捷键，这是一个高级用户的路径引导。</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>![img](https://upload-images.jianshu.io/upload_images/900966-3b82bedd6290daf2.png?imageMogr2/auto-orient/strip</td>
+      <td>imageView2/2/w/858/format/webp)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>注意到上图中下一步按钮了吧！这是一个新手引导帮助，只存在于「石墨文档」中默认文档「欢迎使用石墨文档」中，用户每次打开这个文档，都会告知新手需要知道的操作，而且是按照步骤来的，流程清晰，好理解，易操作。</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>![img](https://upload-images.jianshu.io/upload_images/900966-0dffbe039de7d8ee.png?imageMogr2/auto-orient/strip</td>
+      <td>imageView2/2/w/977/format/webp)</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>![img](https://upload-images.jianshu.io/upload_images/900966-574f2f9a001e518d.png?imageMogr2/auto-orient/strip</td>
+      <td>imageView2/2/w/682/format/webp)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>上面这两张图，第一张中左下角红色圈中部分是下一张图的触发点，基于写作场景就可以触发，主要是给用户与其他人写作以及文档操作的一些介绍，使用GIF动图+文案描述。</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>![img](https://upload-images.jianshu.io/upload_images/900966-b1046f8c21d22400.png?imageMogr2/auto-orient/strip</td>
+      <td>imageView2/2/w/295/format/webp)</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>![img](https://upload-images.jianshu.io/upload_images/900966-8c5b24cb97509b2e.png?imageMogr2/auto-orient/strip</td>
+      <td>imageView2/2/w/1200/format/webp)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>这个例子是触发是在页面顶部的用户头像上，展开后有个人信息，升级，app下载和使用帮助。这里的使用帮助直接进入了帮助中心，即产品的帮助文档库，用户可以通过分类，搜索等方式查找问题解决方法。可以很明显的看出，这个例子与上一个例子在触发点以及最终的去向上有明显差异，体现了不同场景下帮助系统的特点。</p>
+
+<p>———————手动分割线———————–</p>
+
+<p>说了这些，概括起来无非下面这几句：</p>
+
+<ol>
+  <li>
+    <p>从用户和场景构建多级帮助系统；</p>
+  </li>
+  <li>
+    <p>帮助系统不是指特定的帮助方式，只要能够帮助用户理解和认知产品理念与操作的，都是这个系统的组成部分；</p>
+  </li>
+  <li>
+    <p>构建怎么样的多级帮助体系，要结合公司现状，成本和产品特点考虑，并不是所有产品都适合实时支持。</p>
+  </li>
+</ol>
+
+</div>
+
+
+
+<div class="pagination">
+  
+    <a href="/The-accumulated-version-of-garbage-will-sooner-or-later-make-you-suffer" class="left arrow">&#8592;Previous</a>
+  
+  
+    <a href="/Usually-no-one-like-version-updates" class="right arrow">Next&#8594;</a>
+  
+
+  <a href="#" class="top">Top</a>
+</div>
+    </main>
+
+    <footer>
+  <span>
+    &copy; <time datetime="2023-12-18 23:14:05 +0800">2023</time> Alkaid. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
+  </span>
+</footer>
+
+  </body>
+</html>
