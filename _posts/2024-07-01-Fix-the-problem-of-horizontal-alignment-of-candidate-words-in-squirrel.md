@@ -3,7 +3,7 @@ layout: post
 title: "修复鼠须管候选词横向排列失效问题"
 date:      2024-07-01 9:45:00
 author: "Alkaid"
-sticky: true
+sticky: false
 tags:
   - 软件
 ---
