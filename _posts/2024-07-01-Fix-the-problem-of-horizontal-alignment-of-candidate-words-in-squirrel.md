@@ -10,7 +10,7 @@ tags:
 
 
 
-发现鼠须管 1.0.0版本中侯选词横排失效了，去看了一下官方文档发现是因为：`style/horizontal` 被移出了，并且官方给出了新控件来支持：
+发现鼠须管 1.0.0版本中侯选词横排失效了，去看了一下官方文档发现是因为：`style/horizontal` 被移除了，并且官方给出了新控件来支持：
 
 ```
 candidate_list_layout: stacked/linear
